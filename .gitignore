@@ -1,0 +1,6 @@
+# Ignore IntelliJ settings
+.idea/
+# Ignore Eclipse settings
+.settings/
+# Ignore VS Code settings
+.vscode/
