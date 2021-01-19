@@ -2,5 +2,9 @@
 .idea/
 # Ignore Eclipse settings
 .settings/
+.project
+.classpath
 # Ignore VS Code settings
 .vscode/
+# Ignore bin folder
+bin/
